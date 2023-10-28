@@ -1,0 +1,5 @@
+True and True is True.
+True and False is False.
+False and True is False.
+False and False is False.
+10 < 20 and spam == 'Hello' is True.

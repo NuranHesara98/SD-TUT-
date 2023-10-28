@@ -1,0 +1,3 @@
+not True is False.
+not False is True.
+not ('black' == 'white') is True

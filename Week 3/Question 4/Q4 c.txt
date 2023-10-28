@@ -1,0 +1,5 @@
+True or True is True.
+True or False is True.
+False or True is True.
+False or False is False.
+10 > 20 or 20 > 10 is True.
